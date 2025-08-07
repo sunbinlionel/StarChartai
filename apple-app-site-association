@@ -1,0 +1,22 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "D5LP5A3BV8.com.starchartai.app",
+        "paths": [
+          "/analysis/*",
+          "/profile/*",
+          "/share/*",
+          "/download",
+          "/help",
+          "/about",
+          "/support"
+        ]
+      }
+    ]
+  },
+  "webcredentials": {
+    "apps": ["D5LP5A3BV8.com.starchartai.app"]
+  }
+} 
