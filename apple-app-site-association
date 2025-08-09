@@ -6,17 +6,13 @@
         "appID": "D5LP5A3BV8.com.starchartai.app",
         "paths": [
           "/StarChartai/app/*",
+          "/StarChartai/support/*",
           "/StarChartai/analysis/*",
-          "/StarChartai/profile/*",
-          "/StarChartai/share/*",
-          "/StarChartai/download",
-          "/StarChartai/help",
-          "/StarChartai/about"
+          "/app/*",
+          "/support/*",
+          "/analysis/*"
         ]
       }
     ]
-  },
-  "webcredentials": {
-    "apps": ["D5LP5A3BV8.com.starchartai.app"]
   }
-} 
+}
